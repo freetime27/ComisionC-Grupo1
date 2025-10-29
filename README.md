@@ -1,1 +1,2 @@
-# ComisionC-Grupo1Moya,Isaac			Lider, Creo el Repositorio y realiza los Merge.
+# ComisionC-Grupo1
+Moya,Isaac			Lider, Creo el Repositorio y realiza los Merge.

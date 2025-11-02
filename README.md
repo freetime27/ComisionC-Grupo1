@@ -16,7 +16,7 @@ Nombre: Olguin Eva
 evanataliaolguin-rgb
 Agrega archivo de informacion personal
 
-Nombre: Alanes Cecilia(https://github.com/cecilialanes)
+Nombre: Alanes Cecilia [(cecilialanes)](https://github.com/cecilialanes)
 Colaborador
 Agregue archivo txt con informacion personal
 

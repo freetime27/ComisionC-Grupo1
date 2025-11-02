@@ -17,8 +17,8 @@ evanataliaolguin-rgb
 Agrega archivo de informacion personal
 
 Nombre: Alanes Cecilia [(cecilialanes)](https://github.com/cecilialanes)
-Colaborador
-Agregue archivo txt con informacion personal
+- Colaborador
+- Agregue archivo txt con informacion personal
 
 Nombre: Olmedo Antonela Nadia
 NadiaOlmedo

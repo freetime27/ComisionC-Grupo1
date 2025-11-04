@@ -1,41 +1,7 @@
 # ComisionC-Grupo1
-Integrantes y aportes
-Nombre: Isaac Moya
-freetime27
-Agrega archivo de informacion personal
-
-Nombre: Niripil Mailen
-Mayli92
-Agrega archivo de informacion personal
-
-Nombre: Alejandro Bogado
-BogadoCA
-Agrega archivo de informacion personal
-
-Nombre: Olguin Eva
-evanataliaolguin-rgb
-Agrega archivo de informacion personal
-
-Nombre: Alanes Cecilia [(cecilialanes)](https://github.com/cecilialanes)
-- Colaborador
-- Agregue archivo txt con informacion personal
-
-Nombre: Olmedo Antonela Nadia
-NadiaOlmedo
-Agrega archivo de informacion personal
-
-Nombre: Acosta Stefania Micaela
-tefi2
-Agrega archivo de informacion personal
-
-Nombre: Celis Samanta
-Samsam9410
-Agrega archivo de informacion personal
-
-Nombre: Caravario Matias
-mati-gaston
-Agrega archivo de informacion personal
-
-Nombre: Peveri Gaston
-Programacioncudi
-Agrega archivo de informacion personal
+Moya,Isaac			Lider, Creo el Repositorio y realiza los Merge.
+Niripil,        Colaborador, Agrega info personal desde rama, realiza pull request, modifica y actualiza ReadMe
+Caravario Matias. (mati-gaston) Agrego integrante-caravario.txt y modifico readme.
+Bogado Aleajandro    Colaborador, Agrega info personal desde rama, realiza pull request, modifica y actualiza ReadMe
+Acosta Stefania    Colaboradora, Agrega info personal desde rama, realiza pull request, modifica y actualiza ReadMe
+Alanes Cecilia [(cecilialanes)](https://github.com/cecilialanes) Colaborador Agregue archivo txt con informacion personal

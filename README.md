@@ -5,3 +5,4 @@ Caravario Matias. (mati-gaston) Agrego integrante-caravario.txt y modifico readm
 Bogado Aleajandro    Colaborador, Agrega info personal desde rama, realiza pull request, modifica y actualiza ReadMe
 Acosta Stefania    Colaboradora, Agrega info personal desde rama, realiza pull request, modifica y actualiza ReadMe
 Alanes Cecilia [(cecilialanes)](https://github.com/cecilialanes) Colaborador Agregue archivo txt con informacion personal
+Olmedo Nadia, Github(NadiaOlmedo), colaborador

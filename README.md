@@ -10,3 +10,4 @@ Olmedo Nadia, Github(NadiaOlmedo), colaborador
 =======
 - Peveri Alejandro Javier (@Programacioncudi): AGREGA INFO PERSONAL DESDE RAMA, REALIZA PULL, MODIFICA Y ACTUALIZA README
 >>>>>>> 180810b (Agrega alumno Peveri Alejandro Javier al README)
+Olguin Eva Natalia evanataliaolguin4@gmail.com :agrego info personal desde rama , realizo pull modifico y actualizo
